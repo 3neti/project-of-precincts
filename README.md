@@ -77,6 +77,11 @@ POP source snapshot -> project-of-precincts -> ballot-style resolver -> precinct
 The package deliberately stops before device assignment and ACM custody. Those
 are operational outputs of the EMS and precinct-provisioning workflow.
 
+The initial source-delivery requirement is documented in
+[`docs/POP_WORKBOOK_REQUIREMENT.md`](docs/POP_WORKBOOK_REQUIREMENT.md). The
+2025 consolidated COMELEC workbook is retained as a regression fixture under
+[`resources/sources/2025NLE`](resources/sources/2025NLE).
+
 ## Current Status
 
 This is a domain scaffold with immutable records, canonical hashing,

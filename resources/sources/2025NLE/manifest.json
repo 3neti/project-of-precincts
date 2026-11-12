@@ -1,0 +1,16 @@
+{
+    "package_type": "project-of-precincts-source-bundle",
+    "election_id": "2025NLE",
+    "source_reference": "2025NLEPOP",
+    "source_url": "https://www.comelec.gov.ph/php-tpls-attachments/2025NLE/2025NLEPOP/2025NLE_POP.xlsx",
+    "retrieved_at": "2026-11-13",
+    "parser_version": "unparsed-fixture-1",
+    "status": "reference",
+    "files": [
+        {
+            "path": "2025NLE_POP.xlsx",
+            "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "sha256": "d2843072240c42c7df683d3ea6480895331224b6922d2ef1d6d386492af509f0"
+        }
+    ]
+}
